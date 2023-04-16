@@ -1,0 +1,26 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/map"
+    },
+    "overrides": [
+        {"predicate": {"custom_model_data":1010}, "model": "guis/invisibleitem"},
+        {"predicate": {"custom_model_data":1020}, "model": "guis/shopgui/plus1"},
+        {"predicate": {"custom_model_data":1021}, "model": "guis/shopgui/plus10"},
+        {"predicate": {"custom_model_data":1022}, "model": "guis/shopgui/set64"},
+        {"predicate": {"custom_model_data":1023}, "model": "guis/shopgui/minus1"},
+        {"predicate": {"custom_model_data":1024}, "model": "guis/shopgui/minus10"},
+        {"predicate": {"custom_model_data":1025}, "model": "guis/shopgui/set1"},
+        {"predicate": {"custom_model_data":1026}, "model": "guis/shopgui/blocks"},
+        {"predicate": {"custom_model_data":1027}, "model": "guis/shopgui/ruby"},
+        {"predicate": {"custom_model_data":1028}, "model": "guis/shopgui/farming"},
+        {"predicate": {"custom_model_data":1029}, "model": "guis/shopgui/bone"},
+        {"predicate": {"custom_model_data":1030}, "model": "guis/shopgui/cake"},
+        {"predicate": {"custom_model_data":1031}, "model": "guis/shopgui/flower"},
+        {"predicate": {"custom_model_data":1032}, "model": "guis/shopgui/music_disc"},
+        {"predicate": {"custom_model_data":1033}, "model": "guis/shopgui/piston"},
+        {"predicate": {"custom_model_data":1034}, "model": "guis/shopgui/spawner"},
+        {"predicate": {"custom_model_data":1035}, "model": "guis/shopgui/question_mark"},
+        {"predicate": {"custom_model_data":1036}, "model": "guis/shopgui/home"}
+        ]
+}

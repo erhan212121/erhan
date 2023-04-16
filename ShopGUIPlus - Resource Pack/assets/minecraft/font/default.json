@@ -1,0 +1,14 @@
+{
+    "providers": [
+        {"type": "bitmap", "file": "minecraft:guis/pixel.png","ascent": -2000,"height": -3,"chars": ["七"]},
+        {"type": "bitmap", "file": "minecraft:guis/shopgui/shopgui_sell.png","ascent": 26,"height": 66,"chars": ["ㇳ"]},
+        {"type": "bitmap", "file": "minecraft:guis/shopgui/shopgui_category.png","ascent": 26,"height": 140,"chars": ["ㇴ"]},
+        {"type": "bitmap", "file": "minecraft:guis/shopgui/shopgui_categories.png","ascent": 26,"height": 87,"chars": ["ㇵ"]},
+
+        {"type": "bitmap", "file": "minecraft:guis/shopgui/plus.png","ascent": 8,"height": 9,"chars": ["ㇷ"]},
+        {"type": "bitmap", "file": "minecraft:guis/shopgui/minus.png","ascent": 6,"height": 6,"chars": ["ㇸ"]},
+        {"type": "bitmap", "file": "minecraft:guis/shopgui/click.png","ascent": 10,"height": 13,"chars": ["ㇶ"]},
+        {"type": "bitmap", "file": "minecraft:guis/shopgui/shop.png","ascent": 8,"height": 13,"chars": ["㆒"]},
+        {"type": "bitmap", "file": "minecraft:guis/shopgui/cart.png","ascent": 2,"height": 44,"chars": ["ぁ"]}
+    ]
+}
